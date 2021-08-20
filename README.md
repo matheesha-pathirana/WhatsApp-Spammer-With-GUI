@@ -19,6 +19,7 @@ conda install selenium
 ```
 ### Downloading Chrome webdriver
 You need to download Chrome webdriver, corresponding to your version of Google Chrome. Go to [http://chromedriver.chromium.org/downloads](http://chromedriver.chromium.org/downloads) and download the suitable version.
+click here to see your chrome version chrome://settings/help
 ## Running the application
 Move into the directory containing the application.
 Eg:
